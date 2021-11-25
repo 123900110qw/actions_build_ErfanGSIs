@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aaatppgtfnkktf3gljsca2iph4pnc888.node.ppio.cloud:35675/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18S_Pro/9.2.1.1/cn/20211027013228/c0df7299/update.zip?f_ver=v1&max_age=7776000&r=KxU6SSpIaEMUDTsgPiw3A20MK1AjB2kPHQlmCyA%2FKBEiEysWHx4%2BARdLJCggNzBXezIRaSsdaFVcVmd8Z3xqBS1OfAlrQ3ZcQFN5fHp%2Fd15sAn5dP0V1VUtLPD0tLDEDbRsnSSwRK1c6FildHRQsIyopK1c%3D&ppiouid=619fb9eba3022c0001fa04577410fb1d
-  ROM_NAME: Flyme
+  ROM_URL: https://miuiver.com/cmi-21-2-3/
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
