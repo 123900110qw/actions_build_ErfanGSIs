@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
+  ROM_URL: https://ota-1256119282.file.myqcloud.com//SKW-A0/skywalker-ota-eng.buildfarm_2019-12-11_skywalker_mp_ota7_20190910.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
